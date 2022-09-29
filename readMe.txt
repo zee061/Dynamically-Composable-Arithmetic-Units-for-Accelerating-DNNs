@@ -1,5 +1,6 @@
 About the implementation:
 This project is an implementation of Arithmetic Units that can perform 4bit X 4bit and 2bit X 2bit multiplications.
+The implementation is done in Verilog
 
 Tool required : Xilinx ISE Design Suite
 
