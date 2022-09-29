@@ -1,0 +1,29 @@
+Command line:
+   boothBrickTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60035
+
+Thu Sep 29 20:20:20 2022
+
+
+ Elaboration Time: 0 sec
+
+ Current Memory Usage: 196.94 Meg
+
+ Total Signals          : 36
+ Total Nets             : 68
+ Total Signal Drivers   : 18
+ Total Blocks           : 5
+ Total Primitive Blocks : 3
+ Total Processes        : 22
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 156
+Total Line Count : 42
+
+ Total Simulation Time: 0.03 sec
+
+ Current Memory Usage: 272.441 Meg
+
+Thu Sep 29 20:21:05 2022
+

@@ -1,0 +1,26 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/mux4x4TEST_isim_beh.exe -prj /home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/mux4x4TEST_beh.prj work.mux4x4TEST work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/boothBrick2x2.v" into library work
+Analyzing Verilog file "/home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/mux4x4.v" into library work
+Analyzing Verilog file "/home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/mux4x4TEST.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "/home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/mux4x4.v" Line 41: Size mismatch in connection of port <q_1>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "/home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/mux4x4.v" Line 37: Size mismatch in connection of port <q_1>. Formal port size is 1-bit while actual signal size is 32-bit.
+Completed static elaboration
+Fuse Memory Usage: 95492 KB
+Fuse CPU Usage: 490 ms
+Compiling module mux2x1
+Compiling module mux4x4
+Compiling module mux4x4TEST
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 4 Verilog Units
+Built simulation executable /home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/mux4x4TEST_isim_beh.exe
+Fuse Memory Usage: 1704444 KB
+Fuse CPU Usage: 570 ms
+GCC CPU Usage: 600 ms

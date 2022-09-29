@@ -1,0 +1,4 @@
+verilog work "boothBrick2x2.v"
+verilog work "mux4x4.v"
+verilog work "mux4x4TEST.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

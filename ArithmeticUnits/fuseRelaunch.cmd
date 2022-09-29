@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/mux4x4TEST_isim_beh.exe" -prj "/home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/mux4x4TEST_beh.prj" "work.mux4x4TEST" "work.glbl" 

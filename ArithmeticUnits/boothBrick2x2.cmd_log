@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/boothBrick2x2.xst" -ofn "/home/zeeshan/Desktop/MTP/Projects/ArithmeticUnits/boothBrick2x2.syr" 

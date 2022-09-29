@@ -1,0 +1,4 @@
+verilog isim_temp "boothBrick2x2.v"
+verilog isim_temp "mux4x4.v"
+verilog isim_temp "mux4x4TEST.v"
+verilog isim_temp "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
